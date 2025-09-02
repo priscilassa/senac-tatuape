@@ -1,0 +1,32 @@
+atv 
+pegar um intel i? LGA1200 (10-11)
+intel i? LGA 1700 (12-13-14)
+intel ultra? lga 1851 (200)
+
+AMD RYZEN AM4 (1000 A 5000)
+amd ryzen? AM5 (7000 A 9000)
+
+////////////////
+
+
+placa mãe asrock h510m-hdv/m.2 (intel LGA1200)
+Processador Intel Core i5 10400F, LGA 1200
+
+
+placa mãe asus TUF gaming b760M-plus (intel LGA 1700)
+
+processsador Intel Core i5 14400F LGA 1700
+
+
+Placa mãe maxsun iCraft b860m cross (intel LGA 1851)
+processador Processador Intel Core Ultra 9 285K LGA 1851
+
+
+placa mãe MSI MPG b550 gaming plus (AMD AM4)
+
+processador AMD Ryzen 5 5500 AM4 
+
+
+placa mãe Gigabyte b650M ELITE AX ICE (AMD AM5)
+
+processador AMD Ryzen 5 8500G AM5
