@@ -1,0 +1,7 @@
+pilha idependente do tipo é 1,5 volts
+qualquer coisa acima de 1,5 volts é bateria
+cuidado com a polaridade da bateria
+fonte cor amarela 12v, ligar fonte
+vermelha 5 volts hd
+laranja 3,3 volts processador (obs: fontes boas ou de alto desempenho não utilizam cores por conta de estética, usam pretas ou brancas)
+multimetro
