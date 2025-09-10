@@ -1,0 +1,14 @@
+/**
+  Pisca LED
+  @author Priscila (Taylor)
+*/
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);  //ACENDE LED
+  delay(1000);             //1000=1s
+  digitalWrite(13, LOW);
+  delay(1000);
+}

@@ -1,0 +1,9 @@
+/**
+  Cabeçalho de documentação
+*/
+
+/*
+  Comentários em bloco
+*/
+
+// Comentário em linha
