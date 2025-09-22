@@ -10,7 +10,6 @@ O conteúdo é organizado por Unidades Curriculares (UCs) conforme o cronograma 
 *   **Teoria de Hardware:** Fundamentos de componentes e montagem.
 *   **Elétrica e Eletrônica Básica:** Princípios elétricos e projetos com Arduino.
 *   **Git e GitHub:** Controle de versão e colaboração.
-*   **Introdução à IA (AI):** Conceitos básicos de Inteligência Artificial.
 
 ### ⚙️ UC 2
 *   **Sistemas Operacionais:** Microsoft Windows e GNU/Linux.
