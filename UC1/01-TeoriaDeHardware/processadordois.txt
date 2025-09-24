@@ -1,8 +1,0 @@
-multithread (smt)- nome tecnico para duplica o thread
-transistors componente de 3 pernas ou 2 - coiso do processador só exite por causa disso --- transistor esquenta e se ele é menor esquenta menos
-tdp consumo de energia do processador
-gpu = placa de video
-
-//////////////////////////////////////////
-
-
