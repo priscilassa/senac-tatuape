@@ -1,3 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/priscilassa/robo-desvia?style=plastic)
+
+
 # 💻 Curso Técnico em Informática - Senac Tatuapé
 
 Este repositório contém todo o conteúdo de estudo, anotações, exercícios e projetos desenvolvidos ao longo do curso.
